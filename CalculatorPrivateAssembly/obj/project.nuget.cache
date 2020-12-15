@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJHUaUSXn5puqDyB/M8396PKO6JN8jrANuA9Q1t5hqoveIpxzOTTN4SlTaPkRdkUH7PiVlN4h3w2ovr8APTL1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EDWARD ENEJOSA\\Desktop\\TpeventPrefi\\BasicCalculator\\CalculatorPrivateAssembly\\CalculatorPrivateAssembly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EDWARD ENEJOSA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EDWARD ENEJOSA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
